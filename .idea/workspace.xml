@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7ff4611-a2f4-47b4-8dd6-00cfb4f87c20" name="更改" comment="update - 修改指令名称" />
+    <list default="true" id="e7ff4611-a2f4-47b4-8dd6-00cfb4f87c20" name="更改" comment="update - 修改指令名称">
+      <change beforePath="$PROJECT_DIR$/src/libs/byTranslation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/byTranslation.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,43 +15,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Boom-max"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Boom-max&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/zengpeng9527/smart-naming.git",
+    "url": "git@github.com:EricBoum/smart-naming.git",
     "accountId": "2b3b842e-e18d-47ab-b9a4-dbb8c5f99ff3"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2woByS5JEVyGpRzqdq3Ehe5DCal" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "javascript.nodejs.core.library.configured.version": "16.13.1",
-    "javascript.nodejs.core.library.typings.version": "16.18.126",
-    "last_opened_file_path": "/Users/boumeric/Documents/myself/dream/smart-naming",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.13.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.18.126&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/boumeric/Documents/myself/dream/smart-naming&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746698301263</updated>
       <workItem from="1746698302352" duration="11627000" />
+      <workItem from="1746758245427" duration="2320000" />
     </task>
     <task id="LOCAL-00001" summary="chore: 添加 Intellij IDEA项目配置文件&#10;&#10;- 新增 .idea 目录下的项目配置文件，包括 jsLibraryMappings.xml、modules.xml、smart-naming.iml 和 vcs.xml&#10;- 配置 Node.js Core 库映射、项目模块管理、模块根目录管理和版本控制目录映射">
       <option name="closed" value="true" />

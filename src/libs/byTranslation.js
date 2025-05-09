@@ -12,9 +12,6 @@ const byTranslation = async (content) => {
   const translation = res.data.translation?.[0] || ''
   let words = translation.replace(/[^a-zA-Z ]+/g, ' ').trim().split(/\s+/)
 
-  // 限制词组数量不超过 5 个，且单个词语长度不超过五个
-  words = words.slice(0, 5).map(word => word.slice(0, 5))
-
   const hump = words.map(word => {
     const lower = word.toLowerCase()
     return lower.charAt(0).toUpperCase() + lower.slice(1)
