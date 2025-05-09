@@ -1,6 +1,6 @@
 {
   "name": "smart-naming",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "一个根据中文描述智能推荐英文变量名的命令行工具",
   "main": "index.js",
   "bin": {
