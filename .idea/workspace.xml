@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7ff4611-a2f4-47b4-8dd6-00cfb4f87c20" name="更改" comment="update - 修改指令名称" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Boom-max"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/zengpeng9527/smart-naming.git",
+    "accountId": "2b3b842e-e18d-47ab-b9a4-dbb8c5f99ff3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2woByS5JEVyGpRzqdq3Ehe5DCal" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "javascript.nodejs.core.library.configured.version": "16.13.1",
+    "javascript.nodejs.core.library.typings.version": "16.18.126",
+    "last_opened_file_path": "/Users/boumeric/Documents/myself/dream/smart-naming",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.19416.2" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e7ff4611-a2f4-47b4-8dd6-00cfb4f87c20" name="更改" comment="" />
+      <created>1746698301263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746698301263</updated>
+      <workItem from="1746698302352" duration="11627000" />
+    </task>
+    <task id="LOCAL-00001" summary="chore: 添加 Intellij IDEA项目配置文件&#10;&#10;- 新增 .idea 目录下的项目配置文件，包括 jsLibraryMappings.xml、modules.xml、smart-naming.iml 和 vcs.xml&#10;- 配置 Node.js Core 库映射、项目模块管理、模块根目录管理和版本控制目录映射">
+      <option name="closed" value="true" />
+      <created>1746717989041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746717989041</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试提交">
+      <option name="closed" value="true" />
+      <created>1746718400703</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746718400703</updated>
+    </task>
+    <task id="LOCAL-00003" summary="测试">
+      <option name="closed" value="true" />
+      <created>1746718441717</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746718441717</updated>
+    </task>
+    <task id="LOCAL-00004" summary="remove node_modules">
+      <option name="closed" value="true" />
+      <created>1746719407329</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746719407329</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update - 修改指令名称">
+      <option name="closed" value="true" />
+      <created>1746754589567</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746754589567</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: 添加 Intellij IDEA项目配置文件&#10;&#10;- 新增 .idea 目录下的项目配置文件，包括 jsLibraryMappings.xml、modules.xml、smart-naming.iml 和 vcs.xml&#10;- 配置 Node.js Core 库映射、项目模块管理、模块根目录管理和版本控制目录映射" />
+    <MESSAGE value="测试提交" />
+    <MESSAGE value="测试" />
+    <MESSAGE value="remove node_modules" />
+    <MESSAGE value="update - 修改指令名称" />
+    <option name="LAST_COMMIT_MESSAGE" value="update - 修改指令名称" />
+  </component>
+</project>

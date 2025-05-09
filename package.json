@@ -1,0 +1,33 @@
+{
+  "name": "smart-naming",
+  "version": "1.0.3",
+  "description": "一个根据中文描述智能推荐英文变量名的命令行工具",
+  "main": "index.js",
+  "bin": {
+    "nmx": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "variable",
+    "naming",
+    "nmx",
+    "smart-naming",
+    "命名",
+    "命名助手",
+    "变量命名助手",
+    "智能变量命名"
+  ],
+  "author": "Eric",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "chalk": "^4.1.2"
+  }
+}
