@@ -28,10 +28,10 @@ nmx 用户头像地址
 输出示例：
 
 ```
-大驼峰: UserAvatar
-小驼峰: userAvatar
-破折号: user-avatar
-下划线: user_avatar
+大驼峰: UserAvatarAddress
+小驼峰: userAvatarAddress
+破折号: user-avatar-address
+下划线: user_avatar_address
 ```
 
 ### 示例 2：修改配置项

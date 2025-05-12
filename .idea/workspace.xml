@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7ff4611-a2f4-47b4-8dd6-00cfb4f87c20" name="更改" comment="update - 修改指令名称">
+    <list default="true" id="e7ff4611-a2f4-47b4-8dd6-00cfb4f87c20" name="更改" comment="feat(config): 添加配置项管理功能&#10;&#10;- 新增配置项管理功能，支持设置和查看最大单词长度和数量&#10;- 添加清空配置项的功能&#10;- 优化命令行接口，增加新的指令处理逻辑- 引入 configstore 模块用于存储配置项">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/cli.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/byTranslation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/libs/byTranslation.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="EricBoum &lt;zengpeng1622@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -73,6 +76,7 @@
       <updated>1746698301263</updated>
       <workItem from="1746698302352" duration="11627000" />
       <workItem from="1746758245427" duration="2320000" />
+      <workItem from="1747029071897" duration="3044000" />
     </task>
     <task id="LOCAL-00001" summary="chore: 添加 Intellij IDEA项目配置文件&#10;&#10;- 新增 .idea 目录下的项目配置文件，包括 jsLibraryMappings.xml、modules.xml、smart-naming.iml 和 vcs.xml&#10;- 配置 Node.js Core 库映射、项目模块管理、模块根目录管理和版本控制目录映射">
       <option name="closed" value="true" />
@@ -114,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746754589567</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat(config): 添加配置项管理功能&#10;&#10;- 新增配置项管理功能，支持设置和查看最大单词长度和数量&#10;- 添加清空配置项的功能&#10;- 优化命令行接口，增加新的指令处理逻辑- 引入 configstore 模块用于存储配置项">
+      <option name="closed" value="true" />
+      <created>1747028769930</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747028769930</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +149,7 @@
     <MESSAGE value="测试" />
     <MESSAGE value="remove node_modules" />
     <MESSAGE value="update - 修改指令名称" />
-    <option name="LAST_COMMIT_MESSAGE" value="update - 修改指令名称" />
+    <MESSAGE value="feat(config): 添加配置项管理功能&#10;&#10;- 新增配置项管理功能，支持设置和查看最大单词长度和数量&#10;- 添加清空配置项的功能&#10;- 优化命令行接口，增加新的指令处理逻辑- 引入 configstore 模块用于存储配置项" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(config): 添加配置项管理功能&#10;&#10;- 新增配置项管理功能，支持设置和查看最大单词长度和数量&#10;- 添加清空配置项的功能&#10;- 优化命令行接口，增加新的指令处理逻辑- 引入 configstore 模块用于存储配置项" />
   </component>
 </project>
