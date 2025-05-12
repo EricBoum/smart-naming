@@ -1,14 +1,12 @@
 {
   "name": "smart-naming",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "一个根据中文描述智能推荐英文变量名的命令行工具",
   "main": "index.js",
   "bin": {
     "nmx": "./bin/cli.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [
     "cli",
     "variable",
@@ -20,14 +18,22 @@
     "变量命名助手",
     "智能变量命名"
   ],
-  "author": "Eric",
+  "author": "EricBoum",
   "license": "ISC",
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EricBoum/smart-naming"
+  },
+  "bugs": {
+    "url": "https://github.com/EricBoum/smart-naming/issues"
+  },
   "type": "commonjs",
   "dependencies": {
     "axios": "^1.9.0",
-    "chalk": "^4.1.2"
+    "chalk": "^4.1.2",
+    "configstore": "^7.0.0"
   }
 }
